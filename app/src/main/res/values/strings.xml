@@ -12,4 +12,6 @@
     <string name="botao_verdade">VERDADE</string>
     <string name="toast_errou">Errou!</string>
     <string name="toast_acertou">Acertou</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
